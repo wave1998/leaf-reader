@@ -1,0 +1,9 @@
+node_modules
+dist
+android
+public/books
+public/data
+.tools
+.cache
+package-lock.json
+artifacts

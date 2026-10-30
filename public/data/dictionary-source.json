@@ -1,0 +1,7 @@
+{
+  "project": "https://github.com/skywind3000/ECDICT",
+  "download": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/ecdict.csv",
+  "sha256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc",
+  "entries": 43009,
+  "license": "MIT"
+}

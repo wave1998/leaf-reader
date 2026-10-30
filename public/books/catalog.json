@@ -1,0 +1,112 @@
+[
+  {
+    "id": "pg-11",
+    "gutenbergId": 11,
+    "title": "Alice’s Adventures in Wonderland",
+    "subtitle": "爱丽丝梦游仙境",
+    "author": "Lewis Carroll",
+    "color": "#244b43",
+    "accent": "#d9c69b",
+    "motif": "alice",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-1342",
+    "gutenbergId": 1342,
+    "title": "Pride and Prejudice",
+    "subtitle": "傲慢与偏见",
+    "author": "Jane Austen",
+    "color": "#a66b60",
+    "accent": "#f5dfbd",
+    "motif": "flower",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-1661",
+    "gutenbergId": 1661,
+    "title": "The Adventures of Sherlock Holmes",
+    "subtitle": "福尔摩斯探案集",
+    "author": "Arthur Conan Doyle",
+    "color": "#37485a",
+    "accent": "#c9b889",
+    "motif": "sherlock",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-84",
+    "gutenbergId": 84,
+    "title": "Frankenstein",
+    "subtitle": "弗兰肯斯坦",
+    "author": "Mary Shelley",
+    "color": "#555944",
+    "accent": "#d9d4b1",
+    "motif": "moon",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-35",
+    "gutenbergId": 35,
+    "title": "The Time Machine",
+    "subtitle": "时间机器",
+    "author": "H. G. Wells",
+    "color": "#856c46",
+    "accent": "#f5e8c8",
+    "motif": "clock",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-113",
+    "gutenbergId": 113,
+    "title": "The Secret Garden",
+    "subtitle": "秘密花园",
+    "author": "Frances Hodgson Burnett",
+    "color": "#61745a",
+    "accent": "#e5dbb9",
+    "motif": "flower",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-120",
+    "gutenbergId": 120,
+    "title": "Treasure Island",
+    "subtitle": "金银岛",
+    "author": "Robert Louis Stevenson",
+    "color": "#946044",
+    "accent": "#e8cf9f",
+    "motif": "compass",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-1900",
+    "gutenbergId": 1900,
+    "title": "The Wonderful Wizard of Oz",
+    "subtitle": "绿野仙踪",
+    "author": "L. Frank Baum",
+    "color": "#557e79",
+    "accent": "#e3d9a5",
+    "motif": "star",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-74",
+    "gutenbergId": 74,
+    "title": "The Adventures of Tom Sawyer",
+    "subtitle": "汤姆·索亚历险记",
+    "author": "Mark Twain",
+    "color": "#68778d",
+    "accent": "#f1dcba",
+    "motif": "boat",
+    "source": "builtin"
+  },
+  {
+    "id": "pg-2701",
+    "gutenbergId": 2701,
+    "title": "Moby Dick; or, The Whale",
+    "subtitle": "白鲸",
+    "author": "Herman Melville",
+    "color": "#395968",
+    "accent": "#d8e3db",
+    "motif": "wave",
+    "source": "builtin"
+  }
+]

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+tsconfig.tsbuildinfo
+.tools/
+.cache/
+artifacts/
+android/.gradle/
+android/local.properties
+android/**/build/
+*.jks
+*.keystore
+.release/
+.DS_Store

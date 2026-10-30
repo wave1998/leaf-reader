@@ -1,0 +1,72 @@
+[
+  {
+    "id": 11,
+    "landingPage": "https://www.gutenberg.org/ebooks/11",
+    "download": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+    "sha256": "01b38ea4c710a84bc18d0bd41271a5a1a92b94e97b2812f4dece97d4a694725e",
+    "bytes": 174311
+  },
+  {
+    "id": 1342,
+    "landingPage": "https://www.gutenberg.org/ebooks/1342",
+    "download": "https://www.gutenberg.org/ebooks/1342.txt.utf-8",
+    "sha256": "3f6bb9d6f78e0293b56acd4714dd68cb7d6d1d293402031ce9d5a216bcaf9d75",
+    "bytes": 772386
+  },
+  {
+    "id": 1661,
+    "landingPage": "https://www.gutenberg.org/ebooks/1661",
+    "download": "https://www.gutenberg.org/ebooks/1661.txt.utf-8",
+    "sha256": "922e2a12ccb43a4c9544c260b2166c6ad2097aeb5957faeee113f173bb857cd0",
+    "bytes": 607606
+  },
+  {
+    "id": 84,
+    "landingPage": "https://www.gutenberg.org/ebooks/84",
+    "download": "https://www.gutenberg.org/ebooks/84.txt.utf-8",
+    "sha256": "2b97b7f8aad508649481d8dd4f6b54f9b965ddb3ba634e9151c815f537b49e42",
+    "bytes": 448885
+  },
+  {
+    "id": 35,
+    "landingPage": "https://www.gutenberg.org/ebooks/35",
+    "download": "https://www.gutenberg.org/ebooks/35.txt.utf-8",
+    "sha256": "2892e919000e17c83e1dac51b30f4675db50536b644d7579fe8a89bb399a9bdc",
+    "bytes": 204384
+  },
+  {
+    "id": 113,
+    "landingPage": "https://www.gutenberg.org/ebooks/113",
+    "download": "https://www.gutenberg.org/ebooks/113.txt.utf-8",
+    "sha256": "6b0bb5fbd0c4e873d2d22028da9d753cf3977d5f70ac58221556b28060badbf5",
+    "bytes": 475315
+  },
+  {
+    "id": 120,
+    "landingPage": "https://www.gutenberg.org/ebooks/120",
+    "download": "https://www.gutenberg.org/ebooks/120.txt.utf-8",
+    "sha256": "5bc08275eacea8640b1aa185c645283bb8c564d7b23df6b03437d229b4fc6ebd",
+    "bytes": 399873
+  },
+  {
+    "id": 1900,
+    "landingPage": "https://www.gutenberg.org/ebooks/1900",
+    "download": "https://www.gutenberg.org/ebooks/1900.txt.utf-8",
+    "sha256": "301f0c68d0ff9d5cb9fd0fe8068f6663489246cd7c75a21ac4793ff2f7626dda",
+    "bytes": 690679
+  },
+  {
+    "id": 74,
+    "landingPage": "https://www.gutenberg.org/ebooks/74",
+    "download": "https://www.gutenberg.org/ebooks/74.txt.utf-8",
+    "sha256": "74d77384b123a6360db9ab58463cff8b38df8525fbdc6000c81ee388e1f3cf10",
+    "bytes": 434357
+  },
+  {
+    "id": 2701,
+    "landingPage": "https://www.gutenberg.org/ebooks/2701",
+    "download": "https://www.gutenberg.org/ebooks/2701.txt.utf-8",
+    "sha256": "b5e88b71a1cda068e9ab1d94344c9d932338ba6da1a66def97a1aecd9cfcc87d",
+    "bytes": 1276315
+  }
+]
